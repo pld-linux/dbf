@@ -1,12 +1,12 @@
 Summary:	Tool to show and convert dBASE III, IV, and 5.0 files
 Summary(pl):	Narzêdzie do przegl±dania i konwertowania plików dBASE III, IV i 5.0
 Name:		dbf
-Version:	0.6
+Version:	0.7
 Release:	1
 License:	GPL
 Group:		Applications/System
-#Source0-md5:	6048a2c8096e3f4d9a17639a8646b738
 Source0:	http://dl.sourceforge.net/%{name}/%{name}-%{version}.src.tar.gz
+# Source0-md5:	048ac02835d73d845d4d547351924394
 URL:		http://anubisnet.sourceforge.net/products/dbf/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
