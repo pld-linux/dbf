@@ -7,7 +7,6 @@ License:	GPL
 Group:		Applications/System
 #Source0-md5:	6048a2c8096e3f4d9a17639a8646b738
 Source0:	http://dl.sourceforge.net/sourceforge/%{name}/%{name}-%{version}.src.tar.gz
-# Source0-md5: 
 URL:		http://anubisnet.sourceforge.net/products/dbf/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
