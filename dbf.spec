@@ -7,7 +7,7 @@ License:	BSD-like
 Group:		Applications/System
 Source0:	http://download.berlios.de/%{name}/%{name}-%{version}.src.tar.gz
 # Source0-md5:	d3e4d93ce6c956e52d12c92fba29c376
-URL:		http://dbf.berlios.de/products/dbf/
+URL:		http://www.anubisnet.de/products/dbf
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
