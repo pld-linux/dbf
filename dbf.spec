@@ -1,5 +1,5 @@
-Summary:	Tool to show and convert the content of dBASE III, IV, and 5.0
-Summary(pl):	Narzêdzie do przegl±dania, convertowania zawarto¶ci dBASE III, IV, and 5.0
+Summary:	Tool to show and convert the content of dBASE III, IV, and 5.0 files.
+Summary(pl):	Narzêdzie do przegl±dania, convertowania zawarto¶ci plików dBASE III, IV oraz 5.0
 Name:		dbf
 Version:	0.6
 Release:	0.1
