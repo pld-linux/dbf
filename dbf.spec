@@ -2,7 +2,7 @@ Summary:	Tool to show and convert dBASE III, IV, and 5.0 files
 Summary(pl):	Narzêdzie do przegl±dania i konwertowania plików dBASE III, IV i 5.0
 Name:		dbf
 Version:	0.8.1
-Release:	1
+Release:	2
 License:	GPL
 Group:		Applications/System
 Source0:	http://dl.sourceforge.net/%{name}/%{name}-%{version}.src.tar.gz
