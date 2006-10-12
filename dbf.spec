@@ -5,9 +5,10 @@ Version:	0.8.3.1
 Release:	1
 License:	BSD-like
 Group:		Applications/System
-Source0:	http://download.berlios.de/%{name}/%{name}-%{version}.src.tar.gz
+#Source0Download: http://developer.berlios.de/project/showfiles.php?group_id=1219
+Source0:	http://download.berlios.de/dbf/%{name}-%{version}.src.tar.gz
 # Source0-md5:	d3e4d93ce6c956e52d12c92fba29c376
-URL:		http://www.anubisnet.de/products/dbf
+URL:		http://dbf.berlios.de/
 BuildRoot:	%{tmpdir}/%{name}-%{version}-root-%(id -u -n)
 
 %description
