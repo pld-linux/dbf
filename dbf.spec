@@ -1,5 +1,5 @@
 Summary:	Tool to show and convert dBASE III, IV, and 5.0 files
-Summary(pl.UTF-8):   Narzędzie do przeglądania i konwertowania plików dBASE III, IV i 5.0
+Summary(pl.UTF-8):	Narzędzie do przeglądania i konwertowania plików dBASE III, IV i 5.0
 Name:		dbf
 Version:	0.8.3.1
 Release:	1
